@@ -72,7 +72,7 @@ On below, there are informations about the notebooks created respectively.
 <ol>
 	<li>In this section, visualizations of the data set were made. <br> Notebook: <a href=''>1_load_and_display_data.ipynb</a></li> <br>
 	<li>In this section, I build classification model with <i>ResNet-50</i>. <br> Notebook: <a href=''>2_pretrained_resnet50.ipynb</a> - Model has % accuracy.</li> <br>
-	<li>In this section, I build classification model with Class Activation Map (CAM). <br> Notebook: <a href=''>3_model_with_cam.ipynb</a> - Model has % accuracy. The results of the model on the test data are in the <a href="">model_predictions.csv</a> file. Just click the link to view. You can also review train, test and validation csv files <a  href="">here</a>.</p></li>
+	<li>In this section, I build classification model with Class Activation Map (CAM). <br> Notebook: <a href=''>3_model_with_cam.ipynb</a> - Model has % accuracy. The results of the model on the test data are in the <a href="">model_predictions.csv</a> file. Just click the link to view.</p></li>
 </ol>
 
 <br>
