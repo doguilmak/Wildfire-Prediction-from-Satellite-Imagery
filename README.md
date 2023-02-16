@@ -16,6 +16,7 @@
   <li>Class Activation Maps</li>
   <li>Deep Learning</li>
   <li>Satellite Imagery</li>
+  <li>ResNet-50</li>
 </ul>
 
 <br>
