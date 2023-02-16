@@ -21,7 +21,7 @@
 
 <br>
 
-<h2>Objectives</h2>  
+<h2>Objective</h2>  
 
 <p>Using <i>longitude</i> and <i>latitude</i> coordinates for each wildfire spot <i>(> 0.01 acres burned)</i> found on the dataset above we extracted satellite images of those areas using <b>MapBox API</b> to create a more convenient format of the dataset for <i>deep learning</i> and building a model that can predict whether an area is at <b>risk of a wildfire</b> or <b>not</b>.</p>
 
