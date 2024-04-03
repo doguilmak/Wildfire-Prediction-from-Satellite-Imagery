@@ -38,7 +38,7 @@
 
 <h2>Objectives</h2>  
 
-<p>Using <i>longitude</i> and <i>latitude</i> coordinates for each wildfire spot <i>(> 0.01 acres burned)</i> found on the dataset above we extracted satellite images of those areas using MapBox API to create a more convenient format of the dataset for <i>deep learning</i> and building a model that can predict whether an area is at risk of a wildfire or not. <b>Models created with this dataset predict where a fire could potentially occur. It was created on this basis by the Canadian state. This inference was made only through RGB tapes. This should be taken into account.</b></p> 
+<p>Using <i>longitude</i> and <i>latitude</i> coordinates for each wildfire spot <i>(> 0.01 acres burned)</i> found on the dataset above we extracted satellite images of those areas using MapBox API to create a more convenient format of the dataset for <i>deep learning</i> and building a model that can predict whether an area is at risk of a wildfire or not. <b>Models created with this dataset predict where a fire could potentially occur. It was created on this basis by the Canadian state. This inference was made only through RGB bands. This should be taken into account.</b></p> 
 
 <br>  
 
